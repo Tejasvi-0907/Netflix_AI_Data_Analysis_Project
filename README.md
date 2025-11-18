@@ -1,3 +1,5 @@
+![890a8f293ced9cecbe16227eed425710](https://github.com/user-attachments/assets/40a2b722-398f-40ea-bd8f-bb5551229fe2)
+
 # Netflix Titles Data Analysis – Powered by AI & Styled by an Analyst
 
 This project explores 8,800+ Netflix titles using PowerDrill.ai for instant AI-generated insights - and transforms them into a branded, Netflix-style presentation using Canva.
