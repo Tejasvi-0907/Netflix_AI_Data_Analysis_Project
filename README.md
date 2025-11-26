@@ -27,7 +27,7 @@ Dataset Source: [Kaggle – Netflix Titles Dataset](https://www.kaggle.com/datas
 
 ## Key Insights
 
-- Peak content growth happened around 2019–2020  
+- Peak content growth happened around 2019–2020 
 - Netflix leans toward shorter movies and single-season shows  
 - USA leads in content, but India and UK are strong contributors  
 - International genres, dramas, and comedies dominate  
