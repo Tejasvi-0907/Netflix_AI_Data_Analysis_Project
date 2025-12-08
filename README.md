@@ -42,7 +42,7 @@ Dataset Source: [Kaggle – Netflix Titles Dataset](https://www.kaggle.com/datas
 - Styled using Netflix-inspired layout & visual language  
 - Slide titles mimic real Netflix UI (e.g., "Binge Format", "Viewer Advisory", etc.)  
 - Presentation is export-ready as PDF & PPT
-
+  
 ---
 
 ## Project Files
