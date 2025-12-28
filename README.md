@@ -14,7 +14,7 @@ Dataset Source: [Kaggle – Netflix Titles Dataset](https://www.kaggle.com/datas
 - Understand trends in genres, content type, release patterns, and ratings  
 - Practice data storytelling and presentation redesign  
 - Build a professional, visually engaging project for portfolio use
-
+  
 ---
 
 ## Tools Used
